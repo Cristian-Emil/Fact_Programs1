@@ -1,0 +1,24 @@
+[{
+  "nume": "Apetroaie",
+  "prenume": "Ionica",
+  "varsta": 30,
+  "adresa": {
+    "strada": "Str. Plopilor",
+    "numar": 42,
+    "bloc": "",
+    "eatj": ""
+  }
+}
+,
+{
+  "nume": "Bolovan",
+  "prenume": "Petre",
+  "varsta": 35,
+  "adresa": {
+    "strada": "Str. Pilelor",
+    "numar": 12,
+    "bloc": "A3",
+    "eatj": "2",
+    "aparatament" : "6"
+  }
+}]
